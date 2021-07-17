@@ -38,7 +38,7 @@ function preload(){
   enemyplane3 = loadImage("EnemyGreen1.png");
   enemyplane4 = loadImage("EnemyRed1.png");
   enemyplane5 = loadImage("EnemyUFOBlue.png");
-  laserImage = loadImage("PlayerLaserGreen.png");
+  laserImage = loadImage("PlayerlaserGreen.png");
   asteroid1Image = loadImage("MeteorBrownBig1.png");
   asteroid2Image = loadImage("MeteorBrownTiny1.png");
   weponplayersound = loadSound("weapon_player.wav");
